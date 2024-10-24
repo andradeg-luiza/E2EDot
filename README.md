@@ -170,7 +170,7 @@
 
  
 
- 
+--- 
 
 ### **Cenários de Testes**:  
 
@@ -208,8 +208,6 @@
 
    
 
----  
-
    
 
 ### **2. Marcar Tarefas como Concluídas**  
@@ -243,8 +241,6 @@
 - **E** o texto riscado deve ser removido.  
 
    
-
----  
 
    
 
@@ -290,10 +286,6 @@
 
    
 
----  
-
-   
-
 ### **4. Editar Tarefas**  
 
  
@@ -324,8 +316,6 @@
 
 - **E** o campo de entrada deve ser ocultado.  
 
-   
-
  
 
 **Cenário**: Cancelar edição de uma tarefa  
@@ -341,8 +331,6 @@
 - **E** o texto original da tarefa deve ser mantido.  
 
    
-
----  
 
    
 
@@ -360,9 +348,7 @@
 
 - **Então** a tarefa deve ser removida permanentemente da lista.  
 
-   
-
----  
+ 
 
    
 
@@ -380,7 +366,7 @@
 
    
 
----  
+ 
 
 ### **7. Contador de Tarefas Pendentes**  
 
@@ -396,9 +382,7 @@
 
 - **Então** o contador de tarefas pendentes deve mostrar o número correto de tarefas não concluídas.  
 
-   
-
----  
+ 
 
    
 
